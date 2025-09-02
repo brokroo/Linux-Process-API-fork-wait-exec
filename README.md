@@ -22,9 +22,10 @@ Write the C Program using Linux Process API - fork(), wait(), exec()
 Test the C Program for the desired output. 
 
 # PROGRAM:
+```
  PROGRAM:
- Developed by :MANIKANDAN M
- Register Number : 212224040183
+ Developed by :SANJITH.R
+ Register Number : 212223239191
  # C Program to print process ID and parent Process ID using Linux API system callS
  ~~~
  #include <stdio.h>
@@ -46,6 +47,7 @@ Test the C Program for the desired output.
  printf("The process id of parent function: %d\n",p_process_id);
  return 0; }
 ~~~
+```
 #OUTPUT
 <img width="1424" height="945" alt="Screenshot 2025-08-30 172117" src="https://github.com/user-attachments/assets/c3f47a94-9d2c-4461-be5c-b41f657ada8e" />
 
